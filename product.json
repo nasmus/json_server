@@ -1,0 +1,138 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "nike t-shart",
+      "price": 10.99,
+      "image": "p1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "nike shirt",
+      "price": 14.99,
+      "image": "p2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "adidas t-shirt",
+      "price": 15.99,
+      "image": "p3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "adidas t-shirt",
+      "price": 16.99,
+      "image": "p1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lv shirt",
+      "price": 18.99,
+      "image": "p2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "LV t-shirt",
+      "price": 22.99,
+      "image": "p1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Product 1",
+      "price": 45.99,
+      "image": "p3.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Product 1",
+      "price": 23.99,
+      "image": "p2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Product 1",
+      "price": 19.99,
+      "image": "p3.jpg"
+    },
+    {
+      "name": "t-shart",
+      "image": "p2.jpg",
+      "price": "234",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "shakil",
+      "Phone": "01620563656",
+      "isAdmin": true,
+      "password": "12345"
+    },
+    {
+      "name": "siam",
+      "phone": "01732546354",
+      "password": "12345",
+      "isAdmin": false,
+      "id": 6
+    },
+    {
+      "name": "sshoab",
+      "phone": "01723456787",
+      "password": "12345",
+      "isAdmin": false,
+      "id": 7
+    },
+    {
+      "name": "jarif",
+      "phone": "01720563656",
+      "password": "12345",
+      "isAdmin": false,
+      "id": 8
+    },
+    {
+      "name": "saim",
+      "phone": "01620563656",
+      "password": "Shakil123",
+      "isAdmin": false,
+      "id": 9
+    },
+    {
+      "name": "gg",
+      "phone": "01786456354",
+      "password": "12345",
+      "isAdmin": true,
+      "id": 10
+    },
+    {
+      "name": "hdfidf",
+      "phone": "017652435",
+      "password": "12345",
+      "isAdmin": false,
+      "id": 11
+    },
+    {
+      "name": "hdkis",
+      "phone": "+8801172653746",
+      "password": "12345",
+      "isAdmin": false,
+      "id": 12
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "name": "t-shart",
+      "quantity": 3,
+      "price": 13,
+      "isPaid": true
+    },
+    {
+      "id": 2,
+      "name": "belt",
+      "quantity": 2,
+      "price": 135,
+      "isPaid": true
+    }
+  ]
+}
